@@ -71,6 +71,18 @@
 <input type="text" value="Input" class="textInput">
 ```
 
+## Select
+
+```
+<div class="selectWrapper">
+  <select class="select">
+    <option value="">First</option>
+    <option value="">Second</option>
+    <option value="">Third</option>
+  </select>
+</div>
+```
+
 ## Dialog
 
 ```
