@@ -8,7 +8,7 @@
 
 ## Type scale
 
-```
+```html
 <div class="textSize-2xl">Aa</div>
 <div class="textSize-xl">Aa</div>
 <div class="textSize-l">Aa</div>
@@ -19,7 +19,7 @@
 
 ## Card
 
-```
+```html
 <div class="card">
   <div class="cardTitle">
     Title
@@ -32,7 +32,7 @@
 
 ## Button
 
-```
+```html
 <button class="button">Button</button>
 <button class="button button--type-primary">Button</button>
 <button class="button button--type-highlighted">Button</button>
@@ -40,7 +40,7 @@
 
 ## Switch
 
-```
+```html
 <div class="switchWrapper">
   <input id="switch-2" type="checkbox" class="switchInput">
   <label for="switch-2" class="switchLabel">Switch</label>
@@ -49,7 +49,7 @@
 
 ## Radio
 
-```
+```html
 <div class="radioWrapper">
   <input id="radio-3" type="radio" class="radioInput" name="radioDemo">
   <label for="radio-3" class="radioLabel">Radio</label>
@@ -58,7 +58,7 @@
 
 ## Checkbox
 
-```
+```html
 <div class="checkboxWrapper">
   <input id="checkbox-1" type="checkbox" class="checkboxInput">
   <label for="checkbox-1" class="checkboxLabel">Checkbox</label>
@@ -67,13 +67,13 @@
 
 ## Text Input
 
-```
+```html
 <input type="text" value="Input" class="textInput">
 ```
 
 ## Select
 
-```
+```html
 <div class="selectWrapper">
   <select class="select">
     <option value="">First</option>
@@ -85,7 +85,7 @@
 
 ## Dialog
 
-```
+```html
 <div class="dialog">
   <div class="dialogHeader">
     <div class="dialogTitle">
@@ -105,7 +105,7 @@
 
 ## Table
 
-```
+```html
 <div class="table">
   <div class="tableRow">
     <div class="tableHeadCell tableHeadCell--width-xl">Cell</div>
