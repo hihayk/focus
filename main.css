@@ -156,6 +156,19 @@ body {
 	color: var(--c-grey-1);
 }
 
+::-webkit-input-placeholder {
+  color: var(--c-grey-5);
+}
+::-moz-placeholder {
+  color: var(--c-grey-5);
+}
+:-ms-input-placeholder {
+  color: var(--c-grey-5);
+}
+:-moz-placeholder {
+  color: var(--c-grey-5);
+}
+
 .selectWrapper {
 	position: relative;
 }
